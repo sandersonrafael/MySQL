@@ -4,9 +4,7 @@
 * INT UNSIGNED - valores inteiros de 0 a 4.294.967.295
 * BIGINT - valores inteiros de -9.223.372.036.854.775.808 a 9.223.372.036.854.775.807
 * VARCHAR(numero) - valor textual com limite igual ao (numero), até 255
-* TEXT - valor textual não limitado
-
-
+* TEXT(numero) - valor textual com limite definido pelo usuário, sem teto de 255
 
 
 # Modificações
